@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pizza Ordering App</string>
+
+    <string name="AppTitle"></string>
+    <string name="ordrbtn">Go to Order</string>
+
+    <string name="h1"></string>
+    <string name="slogan"></string>
+
+    <string name="Size">Select Pizza Size: </string>
+    <string name="S">Small - £2</string>
+    <string name="M">Medium - £5</string>
+    <string name="L">Large - £7</string>
+
+    <string name="Ingr">Choose your toppings: </string>
+    <string name="gh"></string>
+
+    <string name="show_ingr">Ingredients selected: </string>
+
+
+</resources>
